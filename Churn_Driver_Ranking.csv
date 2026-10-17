@@ -1,0 +1,25 @@
+Feature,Category,Churn_Rate
+PaymentMethod,Electronic check,45.29
+Contract,Month-to-month,42.71
+InternetService,Fiber optic,41.89
+OnlineSecurity,No,41.77
+SeniorCitizen,1,41.68
+TechSupport,No,41.64
+PaperlessBilling,Yes,33.57
+Partner,No,32.96
+Dependents,No,31.28
+SeniorCitizen,0,23.61
+Partner,Yes,19.66
+PaymentMethod,Mailed check,19.11
+InternetService,DSL,18.96
+PaymentMethod,Bank transfer (automatic),16.71
+PaperlessBilling,No,16.33
+Dependents,Yes,15.45
+PaymentMethod,Credit card (automatic),15.24
+TechSupport,Yes,15.17
+OnlineSecurity,Yes,14.61
+Contract,One year,11.27
+OnlineSecurity,No internet service,7.4
+InternetService,No,7.4
+TechSupport,No internet service,7.4
+Contract,Two year,2.83
